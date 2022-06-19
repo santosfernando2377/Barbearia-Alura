@@ -1,0 +1,14 @@
+
+.bg-darkred {
+    background-color: rgb(99, 10, 16);
+}
+
+.bg-golden {
+    background-color: rgb(252, 240, 200);
+    transition: linear 3s;
+}
+
+.bg-golden:hover, .bg-golden:active, .bg-golden:visited, .bg-golden:focus, .bg-golden:focus-within, .bg-golden:focus-visible {
+    background-color: rgb(250, 206, 127);
+    border-color: rgb(250, 206, 127);
+}
